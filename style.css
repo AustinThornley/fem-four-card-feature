@@ -38,6 +38,7 @@ main {
   color: hsl(229, 6%, 66%);
   display: inline-block;
   margin-bottom: 4rem;
+  max-width: 32rem;
 }
 
 .card {
